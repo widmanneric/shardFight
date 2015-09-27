@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;com.beta.chams.DarkMage&apos; to &apos;ShadowMage&apos;&#x0D;&#x0A;- Original project: &apos;Beta-core&apos;&#x0D;&#x0A;- Original element: &apos;com.beta.chams.DarkMage&apos;&#x0D;&#x0A;- Renamed element: &apos;com.beta.chams.ShadowMage&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DarkMage&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.beta.chams{DarkMage.java[DarkMage" matchStrategy="1" name="ShadowMage" qualified="false" references="true" similarDeclarations="false" stamp="1437258259060" textual="false" version="1.0"/>
-</session>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move element &apos;maps&apos; to &apos;assets&apos;&#x0D;&#x0A;- Original project: &apos;Beta-desktop&apos;&#x0D;&#x0A;- Destination element: &apos;assets&apos;&#x0D;&#x0A;- Original element: &apos;maps&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move folder" element1="maps" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1435491767308" target="/Beta-core/assets" units="0" version="1.0"/>
-</session>
